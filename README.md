@@ -14,8 +14,10 @@ I am enrolled at Brigham Young University pursuing a BS in Computer Science, wit
 
 ### Personal Projects
 
-[![Mock Ecommerce Store](https://github-readme-stats.vercel.app/api/pin/?username=adamrounsville&repo=Mock-Ecommerce-Store)](https://github.com/adamrounsville/Mock-Ecommerce-Store)
-
 [![3D Maze Pathfinder](https://github-readme-stats.vercel.app/api/pin/?username=adamrounsville&repo=3D-Maze-Pathfinder)](https://github.com/adamrounsville/3D-Maze-Pathfinder)
 
 [![Hashmap Word Counter](https://github-readme-stats.vercel.app/api/pin/?username=adamrounsville&repo=Hashmap-Word-Counter)](https://github.com/adamrounsville/Hashmap-Word-Counter)
+
+[![Mock Ecommerce Store](https://github-readme-stats.vercel.app/api/pin/?username=adamrounsville&repo=Mock-Ecommerce-Store)](https://github.com/adamrounsville/Mock-Ecommerce-Store)
+
+[![Fantasy Basketball](https://github-readme-stats.vercel.app/api/pin/?username=adamrounsville&repo=Fantasy-Basketball)](https://github.com/adamrounsville/Fantasy-Basketball)
