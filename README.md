@@ -1,3 +1,5 @@
+![Wasatch_Mountains](https://user-images.githubusercontent.com/67769113/164125409-a9b4a43c-525b-483c-8daf-636ad3f793ff.jpeg)
+
 # Hi, I'm Adam 👋
 
 I am a highly driven software engineer who is enthusiastic about developing practical and time-saving software solutions, with proven skills to meet project direction and business needs. I am experienced in object-oriented programming, developing, testing, and debugging code, designing interfaces, and administering systems and networks. I am skilled at identifying issues with existing software and creating innovative new software programs.
