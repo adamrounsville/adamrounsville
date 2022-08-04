@@ -4,9 +4,9 @@
 
 I am a highly driven software engineer who is enthusiastic about developing practical and time-saving software solutions, with proven skills to meet project direction and business needs. I am experienced in object-oriented programming, developing, testing, and debugging code, designing interfaces, and administering systems and networks. I am skilled at identifying issues with existing software and creating innovative new software programs.
 
-I am enrolled at Brigham Young University pursuing a BS in Computer Science, with minors in entrepreneurship and mathematics. I am experienced in Python, Java, JavaScript, Dart, Flutter, C++, HTML, CSS, Elixir, Vue.js, and React.js.
+I am enrolled at Brigham Young University pursuing a BS in Computer Science, with minors in entrepreneurship and mathematics. I am experienced in Python, Java, JavaScript, Dart, Flutter, C++, HTML, CSS, Elixir, Vue.js, and React.
 
-- 🔭 I'm currently working on app development with Flutter and web development with JavaScript, React.js, and Vue.js
+- 🔭 I'm currently working on app development with Flutter and web development with JavaScript, React, and Vue.js
 - 🌱 I'm learning anything I can get my hands on, including algorithms, blockchain development, and full-stack development
 - 👯 I'm always looking to collaborate on open-source projects
 - 💬 Ask me about all things related to mobile and web deveopment, blockchain, and algorithms
