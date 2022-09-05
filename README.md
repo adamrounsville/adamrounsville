@@ -7,4 +7,5 @@ I'm a student at Brigham Young University pursuing a BS in Computer Science, wit
 - 🔭 I'm currently working on app development with Flutter/Dart and web development with JavaScript, React, and Vue.js
 - 🌱 I'm learning anything I can get my hands on, especially regarding blockchain and full stack web development
 - 💬 Ask me about all things related to mobile and web deveopment, blockchain technology, and algorithms
+- 💻 Check out my website – [My Website](https://adamrounsville.me/)
 - 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/adam-rounsville/)
