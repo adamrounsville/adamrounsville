@@ -106,9 +106,9 @@
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="Solidity" />
       </a>
-      <br>Bash
+      <br>Solidity
     </td>
     <td align="center" width="96">
       <a href="#tech">
