@@ -1,12 +1,14 @@
 ![Wasatch_Mountains](https://user-images.githubusercontent.com/67769113/164125409-a9b4a43c-525b-483c-8daf-636ad3f793ff.jpeg)
 
-# 👋 Hi, I'm Adam!
+# 👋 Hey there, I'm Adam!
 
-### 🔗 [Check Out My Website](https://adamrounsville.me/)
+### 🔗 [Check Out My Website](https://adamrounsville.com/)
 
-- 💻 I'm a full stack software engineer with 2+ years of experience, including software engineering work at 2 Y Combinator-backed companies
-- 🏫 I'm a student at Brigham Young University pursuing a BS in Computer Science with an emphasis in Software Engineering, with minors in Mathematics and Entrepreneurship
-- 🔭 I'm currently working on app development with Flutter and React Native, web development with React, GraphQL, and TypeScript, blockchain/smart contract development with Solidity, and AI/ML research with Python
+- 💻 Full stack software engineer with experience in web, mobile, Web3, and AI/ML development
+- 🏫 Sophomore studying Computer Science at Brigham Young University
+- 🔭 Working on app development with Flutter and React Native, web development with React and TypeScript, blockchain/smart contract development with Solidity, and AI/ML research with Python
+- 🌎 Trying to support and contribute to open source projects as much as possible
+
 
 ***
 
