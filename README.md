@@ -6,9 +6,7 @@
 
 - 💻 I'm a full stack software engineer with 2+ years of experience, including software engineering work at 2 Y Combinator-backed companies
 - 🏫 I'm a student at Brigham Young University pursuing a BS in Computer Science with an emphasis in Software Engineering, with minors in Mathematics and Entrepreneurship
-- 🔭 I'm currently working on app development with Flutter/Dart, web development with JavaScript, React, and Vue.js, and blockchain/smart contract development with Solidity
-- 🌱 I'm learning anything I can get my hands on, especially regarding blockchain development, machine learning, AI, and full stack web development
-- 💬 Ask me about all things related to mobile and web deveopment, blockchain/Web3 technology, ML, AI, and algorithms
+- 🔭 I'm currently working on app development with Flutter and React Native, web development with React, GraphQL, and TypeScript, blockchain/smart contract development with Solidity, and AI/ML research with Python
 
 ***
 
