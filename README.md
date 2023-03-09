@@ -4,9 +4,9 @@
 
 ### 🔗 [Check Out My Website](https://adamrounsville.com/)
 
-- 💻 Full stack software engineer (web, mobile, Web3, and AI/ML) and machine learning researcher
+- 💻 Full stack software engineer (web, mobile, Web3, AI/ML) and machine learning researcher
 - 🏫 Undergraduate student studying Computer Science at BYU (BS in Computer Science, Mathematics minor)
-- 🔭 Working on app development with Flutter and React Native, web development with React and TypeScript, blockchain/smart contract development with Solidity, and AI/ML research with Python
+- 🔭 Working on app development with Flutter and React Native, web development with Next.js, React, and TypeScript, blockchain/smart contract development with Solidity, and AI/ML research with Python
 - 🌎 Trying to support and contribute to open source projects as much as possible
 
 
