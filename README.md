@@ -4,8 +4,7 @@
 
 ### 🔗 [Check Out My Website](https://adamrounsville.com/)
 
-- 💻 Full stack software engineer and startup founder
-- 🏫 Undergraduate student studying Computer Science at BYU
+- 💻 Full stack software engineer at Amazon (AWS) 
 - 🔭 Working on app development with Flutter and React Native, web development with Next.js, React, and TypeScript, blockchain/smart contract development with Solidity, and AI/ML research with Python
 - 🌎 Trying to support and contribute to open source projects as much as possible
 
